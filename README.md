@@ -2,7 +2,7 @@
 
 https://tryhackme.com/module/linux-fundamentals
 
-## Topics Learned:
+## Topics I Practiced and Learned:
 
 1. **Fundamental Commands**: Covered basic commands for navigating the filesystem and introduced commands like find and grep for efficient data searching.
 2. **Shell Operators**: Explored important shell operators to enhance command functionality.
